@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application/>
+        <application display_value="SRU">b13ddb9d2fb220100dc82d6df699b67e</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -10,31 +10,31 @@
         <image/>
         <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Student table</mobile_title>
+        <mobile_title>Friends informations</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
-        <order>1</order>
+        <name>x_594698_sru_friends_information</name>
+        <order>20</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_594698_sru.friends_information_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-03-09 09:32:21</sys_created_on>
+        <sys_created_on>2021-03-15 05:09:19</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>793ddb9d2fb220100dc82d6df699b681</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Student table</sys_name>
+        <sys_id>a78a51d7ff32201006d087f8b721f142</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Friends informations</sys_name>
         <sys_overrides/>
         <sys_package display_value="SRU" source="x_594698_sru">9768939d2fb220100dc82d6df699b6b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="SRU">9768939d2fb220100dc82d6df699b6b7</sys_scope>
-        <sys_update_name>sys_app_module_793ddb9d2fb220100dc82d6df699b681</sys_update_name>
+        <sys_update_name>sys_app_module_a78a51d7ff32201006d087f8b721f142</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-09 09:32:21</sys_updated_on>
+        <sys_updated_on>2021-03-15 08:48:43</sys_updated_on>
         <timeline_page/>
-        <title>Student table</title>
+        <title>Friends informations</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

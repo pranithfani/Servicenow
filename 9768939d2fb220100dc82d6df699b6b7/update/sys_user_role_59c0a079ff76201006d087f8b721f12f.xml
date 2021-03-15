@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by display_value="sn_publications.admin" name="sn_publications.admin">73942c25c30112004bd67bfaa2d3ae53</assignable_by>
+        <can_delegate>true</can_delegate>
+        <description>He can see all the details of the persons and can edit them</description>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_594698_sru.employee</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>employee</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 09:19:05</sys_created_on>
+        <sys_id>59c0a079ff76201006d087f8b721f12f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_594698_sru.employee</sys_name>
+        <sys_package display_value="SRU" source="x_594698_sru">9768939d2fb220100dc82d6df699b6b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRU">9768939d2fb220100dc82d6df699b6b7</sys_scope>
+        <sys_update_name>sys_user_role_59c0a079ff76201006d087f8b721f12f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 09:22:19</sys_updated_on>
+    </sys_user_role>
+</record_update>

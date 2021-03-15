@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Students information" max_length="40" name="x_594698_sru_students_information" type="collection">
+        <element label="Address" max_length="50" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact" max_length="40" name="contact" type="phone_number_e164"/>
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Civil" value="Civil"/>
+                <element inactive_on_update="false" label="CSE" value="CSE"/>
+                <element inactive_on_update="false" label="ECE" value="ECE"/>
+            </choice>
+        </element>
+        <element label="Email ID" max_length="30" name="email_id" type="string"/>
+        <element label="ID" mandatory="true" max_length="10" name="id" type="string"/>
+        <element label="First Name" mandatory="true" max_length="20" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Photo" max_length="40" name="photo" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Github Link" mandatory="true" max_length="1024" name="u_url_2" type="url"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

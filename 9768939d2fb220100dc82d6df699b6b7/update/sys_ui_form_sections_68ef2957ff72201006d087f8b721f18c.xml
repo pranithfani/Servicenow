@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="68ef2957ff72201006d087f8b721f18c" sys_domain="global" table="x_594698_sru_students_information" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:42:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcef2957ff72201006d087f8b721f1e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594698_sru_students_information" name="x_594698_sru_students_information" sys_domain="global" view="Default view">68ef2957ff72201006d087f8b721f18c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_594698_sru_students_information" sys_domain="global" view="Default view">1234ad1fff32201006d087f8b721f150</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:42:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 09:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4321da1fffb2201006d087f8b721f10c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594698_sru_students_information" name="x_594698_sru_students_information" sys_domain="global" view="Default view">68ef2957ff72201006d087f8b721f18c</sys_ui_form>
+            <sys_ui_section caption="Upload Image" display_value="Upload Image" name="x_594698_sru_students_information" sys_domain="global" view="Default view">c321da1fffb2201006d087f8b721f108</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 09:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:42:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cef2957ff72201006d087f8b721f1e9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594698_sru_students_information" name="x_594698_sru_students_information" sys_domain="global" view="Default view">68ef2957ff72201006d087f8b721f18c</sys_ui_form>
+            <sys_ui_section caption="Link" display_value="Link" name="x_594698_sru_students_information" sys_domain="global" view="Default view">28ef2957ff72201006d087f8b721f18b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 09:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:42:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78ef2957ff72201006d087f8b721f1e6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594698_sru_students_information" name="x_594698_sru_students_information" sys_domain="global" view="Default view">68ef2957ff72201006d087f8b721f18c</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_594698_sru_students_information" sys_domain="global" view="Default view">2cef2957ff72201006d087f8b721f18a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 09:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_594698_sru_students_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:42:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68ef2957ff72201006d087f8b721f18c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_594698_sru_students_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SRU" source="x_594698_sru">9768939d2fb220100dc82d6df699b6b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRU">9768939d2fb220100dc82d6df699b6b7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_68ef2957ff72201006d087f8b721f18c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:42:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
